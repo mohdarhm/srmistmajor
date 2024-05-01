@@ -1,0 +1,11 @@
+/* customTheme.css */
+:root {
+    --main-color: #007bff;
+    --text-color: #333333;
+  }
+  
+  .sv_default_css {
+    --main-color: var(--main-color);
+    --text-color: var(--text-color);
+  }
+  
